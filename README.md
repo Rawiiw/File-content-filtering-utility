@@ -21,6 +21,13 @@ java -jar util.jar -s -a -o "F:\javacodes\Java_TestTask\" "F:\javacodes\Java_Tes
 ![image](https://github.com/Rawiiw/File-content-filtering-utility/assets/79237095/2e5bfec4-1a98-491e-a5ab-8c023583a0d8)
 
 
+БИБЛИОТЕКИ 
+import java.io.*; //для файлов
+import java.util.ArrayList; //для списков
+import java.util.List;
+![image](https://github.com/Rawiiw/File-content-filtering-utility/assets/79237095/a1e7df30-d621-4baa-8391-95b6ebb02e1e)
+
+
 
  ЗАДАНИЕ
 
