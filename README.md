@@ -14,6 +14,14 @@ cd F:\javacodes\Java_TestTask\out\production\Java_TestTask //укажите св
 далее вводим команду, например
 java -jar util.jar -s -a -o "F:\javacodes\Java_TestTask\" "F:\javacodes\Java_TestTask\in1.txt" "F:\javacodes\Java_TestTask\in2.txt" //не забудьте поменять путь
 
+ВХОДНЫЕ И ВЫХОДНЫЕ ДАННЫЕ
+
+Входными даными являлись строки, целые и вещественные числа из примера в задании. Они описаны в файлах in1 и in2, приложенных в репозитории.
+Выходные файлы создаются по мере необходимости кодом в текущей папке. 
+![image](https://github.com/Rawiiw/File-content-filtering-utility/assets/79237095/2e5bfec4-1a98-491e-a5ab-8c023583a0d8)
+
+
+
  ЗАДАНИЕ
 
 Утилита фильтрации содержимого файлов.
