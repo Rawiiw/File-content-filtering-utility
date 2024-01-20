@@ -70,7 +70,7 @@ class UtiliteFilterClass {
                     }
                 }
             } catch (IOException e) {
-                System.out.println("Ошибка при чтении файла " + args[i] + ": " + e.getMessage());
+                System.out.println("ошибка при чтении файла " + args[i] + ": " + e.getMessage());
                 continue;
             }
         }
@@ -94,7 +94,7 @@ class UtiliteFilterClass {
         if (index + 1 < args.length) {
             return args[index + 1];
         } else {
-            System.out.println("Укажите значение для опции.");
+            System.out.println("укажите значение для опции.");
             System.exit(1);
             return ""; //не достигнется но нужно для компиляции
         }
